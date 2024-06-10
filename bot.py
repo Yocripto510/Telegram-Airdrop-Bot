@@ -30,7 +30,7 @@ states = {
         MessageHandler(Filters.regex("^Submit Details$"), follow_telegram),
         cancelHandler,
     ],
-    FOLLOW_TWITTER: [
+    FOLLOW_YOUTUBE: [https://youtube.com/@freecriptofarm?si=U2bIW53ZKBOj-xl3
         MessageHandler(Filters.regex("^Done$"), follow_twitter),
         cancelHandler,
     ],
